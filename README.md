@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @winston142O
-- 👀 I’m interested in ... Python, HTML, CSS, C family, Java & JS, Angular and React
+- 👀 I’m interested in ... Python, HTML, CSS, C family, Java & JS, Vue, PHP, Angular and React
 - 💞️ I’m down to colaborate on any kind of project as long as it's within my area of knowledge.
 - 📫 How to reach me ... winston1420@hotmail.com or Winston1420 on StackOverflow
